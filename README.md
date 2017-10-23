@@ -1,1 +1,1 @@
-# web-development-data-query
+Based on the cleaned data(CSV) of marijuana vendors in Washington from July in 2015 till now, this web development project optimizes user query interface and data query from dataset via HTML, CSS, SQL and Python. User could search for one or multiple variables about a vendor and our application will return a table of satisfiable vendors and their information.
